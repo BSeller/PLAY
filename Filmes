@@ -1,27 +1,7 @@
-<channels>
-<channel>
-<name>Filmes</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601407.us.archive.org/32/items/logofseries/logo%20filmes.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>Séries</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801407.us.archive.org/32/items/logofseries/logo%20fseries.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+<item>
+<title>O Ataque dos Vermes Malditos</title>
+<link>plugin://plugin.video.grdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cb5Q0-LCheSPo6Lsc9P0eXEll0X13dCR/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GF0L8fkMckB8UcfIQN7Sv1Y9Vy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yUgmWnxcPYoonOQfrax5CfIYvDU.jpg</fanart>
+<info>Perfection é uma pequena vila isolada no meio do estado de Nevada onde, indo de encontro à calmaria costumeira, passa a sofrer uma série de abalos sísmicos estranhos. Para isto Finn Carter) instala aparelhos no deserto. É quando dois trapaceiros, Val (Kevin Bacon) e Earl (Fred Ward), descobrem que embaixo da cidade está uma ninhada de vermes gigantes e fedorentos, com tentáculos na boca e que se movem sob a terra em alta velocidade. Acuada pelas criaturas, os habitantes da cidade se unem para encontrar uma solução e eliminá-los.</info>
+</item>
